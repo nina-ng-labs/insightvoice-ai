@@ -1,5 +1,9 @@
 # InsightVoice AI
 
+<p align="center">
+  <img src="assets/insightvoice-hero.png" alt="InsightVoice — Voice-Driven Business Investigation Agent" width="100%">
+</p>
+
 **Voice-Driven Business Investigation Agent**
 
 InsightVoice is an AI-powered analytics application that allows users to investigate business performance using natural language and voice.
